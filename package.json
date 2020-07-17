@@ -10,6 +10,7 @@
     "serve": "nuxt serve"
   },
   "dependencies": {
+    "firebase": "^6.2.4",
     "nuxt": "^2.13.0"
   },
   "devDependencies": {}
